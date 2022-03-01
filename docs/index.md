@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到共产联盟！
+我们是一个存在于学校的秘密共产主义组织
 
-You can use the [editor on GitHub](https://github.com/Han-llz123/communist-union/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+总部位于中华人民共和国，福建省，福州市，罗源县的罗源第三中学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎各位的加入！
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我们的战斗位置
+我们主要是在罗源县内进行宣传，但这远远不够……
 
 ```markdown
 Syntax highlighted code block
