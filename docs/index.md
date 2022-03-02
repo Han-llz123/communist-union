@@ -24,6 +24,8 @@
 
 我很高兴能有新同志加入这个组织，但因为没有服务器，所以无法在这个网站上进行申请，请联系共产联盟总书记“政委”的QQ:2438126789 或微信:HAN-llz123 ，我会欢迎新同志的加入的
 
-### Support or Contact
+### 关于
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+想要更加了解共产联盟？试试去这些网站看看？
+
+[共产联盟总书记“政委”B站](https://space.bilibili.com/1537747188?spm_id_from=333.1007.0.0)
