@@ -5,28 +5,20 @@
 
 欢迎各位的加入！
 
-### 我们的战斗位置
+### 我们的战斗任务
 我们主要是在罗源县内进行宣传，但这远远不够……
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+我们决定将这个组织在网上进行宣传
+因为没有专门的服务器所以只能用Github上的静态网页托管了
+```
+我们的任务
+1.结束学校内的教师独裁
+2.实现学校内部苏维埃民主一体化
+3.实行计划作业制度
+4.结束无谓的内卷
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+有关共产联盟的更多消息请查看 [共产联盟wiki](https://gongchanlianmeng.fandom.com/zh/wiki/%E5%85%B1%E4%BA%A7%E8%81%94%E7%9B%9F_Wiki).
 
 ### Jekyll Themes
 
