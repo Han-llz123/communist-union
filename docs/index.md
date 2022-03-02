@@ -20,9 +20,9 @@
 
 有关共产联盟的更多消息请查看 [共产联盟wiki](https://gongchanlianmeng.fandom.com/zh/wiki/%E5%85%B1%E4%BA%A7%E8%81%94%E7%9B%9F_Wiki).
 
-### Jekyll Themes
+### 申请战斗的方式
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Han-llz123/communist-union/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我很高兴能有新同志加入这个组织，但因为没有服务器，所以无法在这个网站上进行申请，请联系共产联盟总书记“政委”的QQ:2438126789 或微信:HAN-llz123 ，我会欢迎新同志的加入的
 
 ### Support or Contact
 
